@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include sdt.h
 main ()
 {
 float a, b;
